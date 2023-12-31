@@ -1,0 +1,3 @@
+GeeksforGeeks. "Dutch National Flag Problem." URL: GeeksforGeeks - Dutch National Flag Problem
+Levitin, A. (Year). Introduction to the Design and Analysis of Algorithms. Publisher.
+LeetCode. "Dutch National Flag Problem Discussion." URL: LeetCode - Dutch National Flag Problem
